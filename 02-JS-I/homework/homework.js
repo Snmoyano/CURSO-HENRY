@@ -156,8 +156,8 @@ function redondearNumero(num) {
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  
-}return math.ceil (num)
+  return math.ceil(num)
+
 
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
@@ -289,3 +289,5 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
+
+
